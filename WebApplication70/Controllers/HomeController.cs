@@ -26,5 +26,6 @@ namespace WebApplication70.Controllers
 
             return View();
         }
+        
     }
 }
